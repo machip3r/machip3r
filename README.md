@@ -1,8 +1,20 @@
-Yo!
+Hey!
 # Braulio Baca 🏄‍♂️
 aka Mac
 
-Working on it...
+👨🏻‍💻 Software Developer
+👨🏻‍💻 Computer Science Engineer
+👨🏻‍💻 Programming Technician
+
+Analytic, social, responsible, creative, persistent and capable man to solve any problem related to my skills
+logically with ease of adaptation.
+
+- Open to collaborate in software projects 🤘
+- Always learning 🤓
+- Coding is a passion not a job! 🤖
+
+Reach me out:
+<https://machip3r.github.io/portfolio>
 
 <!--
 **machip3r/machip3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
