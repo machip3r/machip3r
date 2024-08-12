@@ -1,10 +1,10 @@
-Hey!
+### Hey!
 # Braulio Baca 🏄‍♂️
-aka Mac
+## aka Mac
 
-👨🏻‍💻 Software Developer
-👨🏻‍💻 Computer Science Engineer
-👨🏻‍💻 Programming Technician
+👨🏻‍💻 Software Developer\
+👨🏻‍💻 Computer Science Engineer\
+👨🏻‍💻 Programming Technician\
 
 Analytic, social, responsible, creative, persistent and capable man to solve any problem related to my skills
 logically with ease of adaptation.
@@ -13,7 +13,7 @@ logically with ease of adaptation.
 - Always learning 🤓
 - Coding is a passion not a job! 🤖
 
-Reach me out:
+Reach me out!\
 <https://machip3r.github.io/portfolio>
 
 <!--
