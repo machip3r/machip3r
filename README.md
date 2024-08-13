@@ -9,7 +9,7 @@ aka Mac, MacHip3r, Braulio Mac, BrauMac, MacBrau
 Analytic, social, responsible, creative, persistent and capable man to solve any problem related to my skills
 logically with ease of adaptation.
 
-## Technologies 🦸🏻‍♂️\
+## Technologies 🦸🏻‍♂️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -28,12 +28,12 @@ logically with ease of adaptation.
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## Notes 💥\
+## Notes 💥
 - Open to collaborate in software projects 🤘🏻
 - Always learning 🤓
 - Coding is a passion not a job! 🤖
 
-## Reach me out! 🫣\
+## Reach me out! 🫣
 👨🏻 - <https://machip3r.github.io/portfolio>
 🐮 - <https://machip3r.github.io/CompuBac>
 
