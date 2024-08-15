@@ -1,5 +1,5 @@
 ### Hey! 👋🏻
-# Braulio Baca 🏄‍♂🏄🏻‍♂️
+# Braulio Baca 🏄🏻‍♂️
 aka Mac, MacHip3r, Braulio Mac, BrauMac, MacBrau
 
 👨🏻‍💻 Software Developer\
