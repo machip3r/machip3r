@@ -34,7 +34,7 @@ logically with ease of adaptation.
 - Coding is a passion not a job! 🤖
 
 ## Reach me out! 🫣
-👨🏻 - <https://machip3r.github.io/portfolio>\
+👨🏻 - <https://machip3r.is-a.dev/>\
 🐮 - <https://machip3r.github.io/CompuBac>
 
 <!--
