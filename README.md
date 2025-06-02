@@ -34,8 +34,8 @@ logically with ease of adaptation.
 - Coding is a passion not a job! 🤖
 
 ## Reach me out! 🫣
-👨🏻 - <https://machip3r.is-a.dev/>\
-🐮 - <https://machip3r.github.io/CompuBac>
+👨🏻 - <https://machip3r.dev/>\
+🐮 - <https://compubac.com/>
 
 <!--
 **machip3r/machip3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
